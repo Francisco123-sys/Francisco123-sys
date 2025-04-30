@@ -1,0 +1,19 @@
+📄 Licença Personalizada — Gonsalves Protection License (GPLight)
+Copyright (c) 2025 Francisco Gonsalves 
+
+
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste código e arquivos de documentação associados (o "Software"), para utilizar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, com as seguintes condições:
+
+Crédito Obrigatório:
+Toda vez que este código (ou parte dele) for utilizado ou adaptado, deve-se incluir um crédito visível ao autor original:
+
+Trecho baseado na proteção contra prompt injection criada por Francisco Gonsalves (2025).
+
+Uso Ético:
+Este software não pode ser utilizado com fins maliciosos, como engenharia social, golpes ou invasão de privacidade.
+
+Modificações Permitidas:
+Alterações são permitidas, desde que os créditos à ideia original sejam mantidos.
+
+Sem Garantia:
+O software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo, expressas ou implícitas.
